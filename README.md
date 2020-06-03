@@ -1,7 +1,7 @@
 # NeuralNetworks 
 #### This is code for the building a Standard Neural Networks with Keras.
 
-The following notebooks and pictures are used to explain in the article called **"Coding a Neural Networks Quick" in Nutshell** which is published in **AnalyticsVidhya Medium Publications**.
+The following notebooks and pictures are used to explain in the article called **"Coding a Neural Networks Quick" in Nutshell** which is published in [AnalyticsVidhya Medium Publication](https://medium.com/analytics-vidhya).
 
 The Notebook explains about neural network building using sequential model, activation function, densing layers and so on.
 
